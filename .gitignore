@@ -1,0 +1,15 @@
+# PostgreSQL-related
+*.sql~
+*.dump
+*.log
+pgdata/
+*.pgsql
+*.psql
+
+# General
+*.DS_Store
+*.bak
+*.tmp
+*.swp
+
+Add custom .gitignore
