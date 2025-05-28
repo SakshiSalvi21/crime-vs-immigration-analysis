@@ -2,6 +2,10 @@
 
 This project analyzes how immigration trends may correlate with crime patterns in major Ontario cities using structured SQL queries. Data sources include official Canadian government statistics.
 
+📌 **Grade Achieved:** 100%  
+📊 **Course:** INFO8076 – SQL and Data Analysis  
+🏫 **Institution:** Conestoga College
+
 ## 📁 Project Structure
 
 - `ERD_Design_and_Tables/`: Contains SQL schema creation and table design.
