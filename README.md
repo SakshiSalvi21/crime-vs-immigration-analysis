@@ -17,7 +17,7 @@ This project analyzes how immigration trends may correlate with crime patterns i
 - PostgreSQL
 - SQL
 - Data from Statistics Canada
-- Visualization tools (Excel or Power BI)
+- Visualization tools (Excel and Power BI)
 
 ## 📊 Key Findings
 
