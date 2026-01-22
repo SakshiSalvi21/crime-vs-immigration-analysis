@@ -94,10 +94,9 @@ Future work could include regression modeling, additional years of data, and pop
 ---
 
 ## Project Structure
-- `/data` – Cleaned datasets
-- `/sql` – SQL scripts and views
-- `/visuals` – Charts and reporting outputs
-- `/docs` – Project documentation and schema
+- `/ERD and Table`
+- `/Queries` – SQL scripts and views
+- `/Report` – Project documentation (Charts, reporting outputs, and schema)
 
 ---
 
