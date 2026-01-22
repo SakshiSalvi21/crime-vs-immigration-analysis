@@ -94,7 +94,7 @@ Future work could include regression modeling, additional years of data, and pop
 ---
 
 ## Project Structure
-- `/ERD and Table`
+- `/ERD Design and Tables` - ERD diagram and Queries for Tables Creation
 - `/Queries` – SQL scripts and views
 - `/Report` – Project documentation (Charts, reporting outputs, and schema)
 
